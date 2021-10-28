@@ -16,7 +16,7 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="mailto:marco.ardizzone99@gmail.com" target="_blank"> <img style=" padding-right=50px;" align="center" src="https://user-images.githubusercontent.com/50525101/136530502-6214c692-ce46-4bef-8616-864c5692044a.png" alt="marco.ardizzone99@gmail.com" heigth="30" width="40"> </a>
-<a href="https://linkedin.com/in/ardizzone-marcocs" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635415030~hmac=19f43228fd3fc088314c8bfda08660f7" alt="ardizzone-marcocs" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ardizzone-marcocs" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ardizzone-marcocs" height="40" width="40" /></a>
 </p>
 <!--
 <h3 align="left">Languages and Tools:</h3> 
