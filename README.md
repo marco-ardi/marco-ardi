@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marco Ardizzone</h1>
-<h3 align="center">A Computer Science Student @ University of Catania (Italy)</h3>
+<h3 align="center">A Fresh graduate in Computer Science @ University of Catania (Italy)</h3>
 
 <p align="center">
    <a href="https://github.com/marco-ardi"> <img src="https://github-readme-stats.vercel.app/api?username=marco-ardi&show_icons=true&count_private=true&theme=radical" alt="marco.ardizzone99@gmail.com"></a><br>
-  <a href="https://github.com/marco-ardi"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-ardi&layout=compact&theme=radical" alt="marco.ardizzone99@gmail.com"></a>
+  <a href="https://github.com/marco-ardi"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-ardi&layout=compact&theme=radical&hide=shaderlab, css, hlsl" alt="marco.ardizzone99@gmail.com"></a>
 </p>
 
 <!--
