@@ -2,8 +2,8 @@
 <h3 align="center">A Fresh graduate in Computer Science @ University of Catania (Italy)</h3>
 
 <p align="center">
-   <a href="https://github.com/marco-ardi"> <img src="https://github-readme-stats.vercel.app/api?username=marco-ardi&show_icons=true&count_private=true&theme=radical" alt="marco.ardizzone99@gmail.com"></a><br>
-  <a href="https://github.com/marco-ardi"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-ardi&layout=compact&theme=radical&hide=shaderlab, css, hlsl" alt="marco.ardizzone99@gmail.com"></a>
+   <a href="https://github.com/marco-ardi"> <img src="https://github-readme-stats.vercel.app/api?username=marco-ardi&show_icons=true&count_private=true&theme=radical"></a><br>
+  <a href="https://github.com/marco-ardi"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-ardi&layout=compact&theme=radical&hide=shaderlab, css, hlsl"></a>
 </p>
 
 <!--
@@ -16,7 +16,7 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="mailto:marco.ardizzone99@gmail.com" target="_blank"> <img style=" padding-right=50px;" align="center" src="https://user-images.githubusercontent.com/50525101/136530502-6214c692-ce46-4bef-8616-864c5692044a.png" alt="marco.ardizzone99@gmail.com" heigth="30" width="40"> </a>
-<a href="https://linkedin.com/in/ardizzone-marcocs" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="ardizzone-marcocs" height="45" width="50" /></a>
+<a href="https://linkedin.com/in/marco-ardi" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="marco-ardi" height="45" width="50" /></a>
 </p>
 <!--
 <h3 align="left">Languages and Tools:</h3> 
