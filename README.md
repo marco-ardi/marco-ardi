@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco Ardizzone</h1>
-<h3 align="center">A Fresh graduate in Computer Science @ University of Catania (Italy)</h3>
+<h3 align="center">EIT MSc in Data Science @ TU/e & KTH | Software Engineer</h3>
 
 <p align="center">
    <a href="https://github.com/marco-ardi"> <img src="https://github-readme-stats.vercel.app/api?username=marco-ardi&show_icons=true&count_private=true&theme=radical"></a><br>
-  <a href="https://github.com/marco-ardi"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-ardi&layout=compact&theme=radical&hide=shaderlab, css, hlsl"></a>
-</p>
+  <!-- <a href="https://github.com/marco-ardi"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-ardi&layout=compact&theme=radical&hide=shaderlab, css, hlsl"></a>
+</p> -->
 
 <!--
 [![Marco Ardizzone's github stats](https://github-readme-stats.vercel.app/api?username=marco-ardi&show_icons=true&count_private=true&theme=radical)](https://github.com/marco-ardi)
